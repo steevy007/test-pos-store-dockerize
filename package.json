@@ -1,0 +1,14 @@
+{
+  "name": "test-pos-store-dockerize",
+  "main": "index.js",
+  "author": "sanon steeve",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^3.6.0",
+    "apollo-server": "^3.5.0",
+    "graphql": "^16.1.0"
+  },
+  "devDependencies": {
+    "prisma": "^3.6.0"
+  }
+}
